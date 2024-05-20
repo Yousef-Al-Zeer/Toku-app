@@ -1,5 +1,5 @@
 # toku
 
-Toku app is a flutter appTeaching reading and writing Japanese
+Toku app is a flutter app Teaching reading and writing Japanese
 
 
